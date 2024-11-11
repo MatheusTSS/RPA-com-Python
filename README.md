@@ -1,6 +1,6 @@
 Automação de E-mails com PyAutoGUI
 
-Descrição
+Descrição:
 
 Script que automatiza o envio de e-mails via Gmail usando PyAutoGUI e Pandas.
 
